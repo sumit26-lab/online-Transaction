@@ -1,0 +1,20 @@
+.login-from{
+    max-width: 360px;
+    margin: 60px auto;
+    padding: 20px;
+}
+.login-from label{
+    display: block;
+    margin: 30px auto;
+
+}
+.login-from span{
+    display: block;
+    margin-bottom: 6px;
+}
+.login-from input{
+    padding: 8px 6px;
+    font-size: 1em;
+    color:#777;
+    width: 100%;
+}

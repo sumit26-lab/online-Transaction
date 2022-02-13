@@ -1,0 +1,19 @@
+.signup-from{
+    max-width: 360px;
+    margin: 60px auto;
+    padding: 20px;
+}
+.signup-from label{
+    display: block;
+    margin: 30px auto;
+}
+.signup-from span{
+    display: block;
+    margin-bottom: 6px;
+}
+.signup-from input{
+    padding: 8px 6px;
+    font-size: 1em;
+    color: #777;
+    width: 100%;
+}
